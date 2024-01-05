@@ -51,8 +51,8 @@
     "yarn": "3.5.0"
   },
   "dependencies": {
-    "@kquicho/rivet-core": "1.14.0",
-    "@kquicho/rivet-node": "1.14.0"
+    "@kquicho/rivet-core": "git+https://github.com/kquicho/rivet.git#main",
+    "@kquicho/rivet-node": "git+https://github.com/kquicho/rivet.git#main"
   },
   "dependenciesMeta": {
     "@pnpm/exe@8.8.0": {

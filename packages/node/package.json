@@ -40,7 +40,7 @@
     "test": "tsx --test test/**/*.test.ts"
   },
   "dependencies": {
-    "@kquicho/rivet-core": "1.14.0",
+    "@kquicho/rivet-core": "git+https://github.com/kquicho/rivet.git#main",
     "emittery": "^1.0.1",
     "emittery-0-13": "npm:emittery@^0.13.1",
     "lodash": "^4.17.21",
