@@ -10,7 +10,7 @@ import {
   loadProjectAndAttachedDataFromString,
   type RunGraphOptions,
   DEFAULT_CHAT_NODE_TIMEOUT,
-} from '@ironclad/rivet-core';
+} from '@kquicho/rivet-core';
 
 import { readFile } from 'node:fs/promises';
 import { type RivetDebuggerServer, type Settings } from './index.js';

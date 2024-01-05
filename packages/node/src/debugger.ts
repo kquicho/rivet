@@ -10,7 +10,7 @@ import {
   type StringArrayDataValue,
   type DataId,
   type DataValue,
-} from '@ironclad/rivet-core';
+} from '@kquicho/rivet-core';
 import { match } from 'ts-pattern';
 import Emittery from 'emittery';
 import { type DebuggerDatasetProvider } from './index.js';

@@ -1,7 +1,7 @@
 {
-  "name": "@ironclad/rivet-node",
+  "name": "@kquicho/rivet-node",
   "license": "MIT",
-  "repository": "https://github.com/ironclad/rivet",
+  "repository": "https://github.com/kquicho/rivet",
   "version": "1.14.0",
   "main": "dist/cjs/bundle.cjs",
   "module": "dist/esm/index.js",
@@ -40,7 +40,7 @@
     "test": "tsx --test test/**/*.test.ts"
   },
   "dependencies": {
-    "@ironclad/rivet-core": "workspace:^",
+    "@kquicho/rivet-core": "workspace:^",
     "emittery": "^1.0.1",
     "emittery-0-13": "npm:emittery@^0.13.1",
     "lodash": "^4.17.21",
