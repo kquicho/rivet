@@ -1,5 +1,5 @@
 {
-  "name": "@ironclad/rivet",
+  "name": "@kquicho/rivet",
   "license": "MIT",
   "repository": "https://github.com/ironclad/rivet",
   "packageManager": "yarn@4.0.0",
@@ -51,8 +51,8 @@
     "yarn": "3.5.0"
   },
   "dependencies": {
-    "@ironclad/rivet-core": "workspace:^",
-    "@ironclad/rivet-node": "workspace:^"
+    "@kquicho/rivet-core": "1.14.0",
+    "@kquicho/rivet-node": "1.14.0"
   },
   "dependenciesMeta": {
     "@pnpm/exe@8.8.0": {
